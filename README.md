@@ -1,8 +1,6 @@
 
 ## Hola, I'm Van Hoang Kha 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="Van Hoang Kha" /> </p>
-
 <a href="https://twitter.com/AlphaGo_14">
   <img align="left" alt="Van Hoang Kha's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
