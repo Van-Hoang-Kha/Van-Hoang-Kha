@@ -29,7 +29,7 @@
 
 - 🔭 I'm a student at [PTITHCM](https://ptithcm.edu.vn).
 - 🌱 I’m currently learning more about Web Development.
-- 👯 I’m looking to collaborate on [](https://youtube.com/mtechviral).
+- 👯 I’m looking to collaborate on [LAB B02]().
 - 💬 Ask me about Python or any tech-related stuff.
 - 📫 How to reach me: [Email](khab9thd@gmail.com) , [Viber](0378970137)
 - 😄 Pronouns: He/His
