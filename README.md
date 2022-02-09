@@ -28,9 +28,9 @@
 
 
 - 🔭 I'm a student at [PTITHCM](https://ptithcm.edu.vn).
-- 🌱 I’m currently learning more about Web Development.
+- 🌱 I’m currently learning more about DevOps.
 - 👯 I’m looking to collaborate on [LAB B02]().
-- 💬 Ask me about Python, Computer Vision, NLP, Machine Learning or any tech-related stuff.
+- 💬 Ask me about Python, Docker, Kubernetes, AWS, GCP, Computer Vision, NLP, Machine Learning or any tech-related stuff.
 - 📫 How to reach me: [Email](khab9thd@gmail.com) , [Viber](0378970137)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
