@@ -49,3 +49,5 @@
 
 [![Van Hoang Kha GitHub stats](https://github-readme-stats.vercel.app/api?username=Van-Hoang-Kha)](https://github.com/Van-Hoang-Kha/github-readme-stats)
 
+![Van Hoang Kha GitHub stats](https://github-readme-stats.vercel.app/api?username=Van-Hoang-Kha&hide=contribs,prs)
+
