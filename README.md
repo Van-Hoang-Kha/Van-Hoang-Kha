@@ -1,6 +1,10 @@
 # [FIRST CLOUD JOURNEY](https://cloudjourney.awsstudygroup.com/) 
 
+
 <img align="left" alt="Van Hoang Kha's Github"  src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t39.30808-6/271848445_10217333385366338_2059762173748527506_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=B4jbhfRTO3IAX-GOuxR&tn=F8SiriytLR0tzSYA&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT9LHdAf1XSaDG12QWJ7-fCeOgzcc6e4DT2BhV1c4kECjg&oe=623ACF5B" />
+
+
+
 
 
 ## Hola, I'm Van Hoang Kha 👋
@@ -33,8 +37,8 @@
 
 
 - 🔭 I'm a student at [PTITHCM](https://ptithcm.edu.vn).
-- 🌱 I’m currently learning more about DevOps.
-- 👯 I’m looking to collaborate on [LAB B02]().
+- 🌱 I’m currently learning more about DevOps and SAA.
+- 👯 I’m looking to collaborate on [IoT System Lab](https://www.facebook.com/IoTSLAB).
 - 💬 Ask me about Python, Docker, Kubernetes, AWS, GCP, Computer Vision, NLP, Machine Learning or any tech-related stuff.
 - 📫 How to reach me: [Email](khab9thd@gmail.com) , [Viber](0378970137)
 - 😄 Pronouns: He/His
