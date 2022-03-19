@@ -2,9 +2,9 @@
 
 <img align="left" alt="Van Hoang Kha's Github"  src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t39.30808-6/271848445_10217333385366338_2059762173748527506_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=B4jbhfRTO3IAX-GOuxR&tn=F8SiriytLR0tzSYA&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT9LHdAf1XSaDG12QWJ7-fCeOgzcc6e4DT2BhV1c4kECjg&oe=623ACF5B" />
 
-<br>
+
 ## Hola, I'm Van Hoang Kha 👋
-</br>
+
 <a href="https://www.linkedin.com/in/van-hoang-kha">
   <img align="left" alt="Van Hoang 's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 
