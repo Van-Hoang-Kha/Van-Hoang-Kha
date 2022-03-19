@@ -47,9 +47,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Van-Hoang-Kha&repo=github-readme-stats)](https://github.com/Van-Hoang-Kha/github-readme-stats)
 
-[![Van Hoang Kha GitHub stats](https://github-readme-stats.vercel.app/api?username=Van-Hoang-Kha)](https://github.com/Van-Hoang-Kha/github-readme-stats)
+![Van Hoang Kha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Van-Hoang-&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Van-Hoang-Kha&langs_count=8)](https://github.com/Van-Hoang-Kha/github-readme-stats)
 
