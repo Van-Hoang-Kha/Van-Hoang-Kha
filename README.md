@@ -1,4 +1,4 @@
-# FIRST CLOUD JOURNEY 
+# [FIRST CLOUD JOURNEY](https://cloudjourney.awsstudygroup.com/) 
 ## Hola, I'm Van Hoang Kha 👋
 
 <a href="https://www.linkedin.com/in/van-hoang-kha">
