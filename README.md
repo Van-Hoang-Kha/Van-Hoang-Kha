@@ -1,7 +1,7 @@
 # [FIRST CLOUD JOURNEY](https://cloudjourney.awsstudygroup.com/) 
 
 
-<img align="center" alt="Van Hoang Kha's Github" width="1200" height="800" src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t39.30808-6/271848445_10217333385366338_2059762173748527506_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=B4jbhfRTO3IAX-GOuxR&tn=F8SiriytLR0tzSYA&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT9LHdAf1XSaDG12QWJ7-fCeOgzcc6e4DT2BhV1c4kECjg&oe=623ACF5B" />
+<img align="center" alt="Van Hoang Kha's Github" width="1000" height="400" src="https://scontent.fsgn13-2.fna.fbcdn.net/v/t39.30808-6/271848445_10217333385366338_2059762173748527506_n.jpg?_nc_cat=106&ccb=1-5&_nc_sid=8631f5&_nc_ohc=B4jbhfRTO3IAX-GOuxR&tn=F8SiriytLR0tzSYA&_nc_ht=scontent.fsgn13-2.fna&oh=00_AT9LHdAf1XSaDG12QWJ7-fCeOgzcc6e4DT2BhV1c4kECjg&oe=623ACF5B" />
 
 
 ### Hola, I'm Van Hoang Kha 👋
