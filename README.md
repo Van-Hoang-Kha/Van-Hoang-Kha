@@ -1,4 +1,5 @@
 # [FIRST CLOUD JOURNEY](https://cloudjourney.awsstudygroup.com/) 
+
 ## Hola, I'm Van Hoang Kha 👋
 
 <a href="https://www.linkedin.com/in/van-hoang-kha">
@@ -49,6 +50,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Van-Hoang-Kha&theme=vue)
+
 ![Van Hoang Kha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Van-Hoang-Kha&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Van-Hoang-Kha&langs_count=8)](https://github.com/Van-Hoang-Kha/github-readme-stats)
