@@ -49,5 +49,5 @@
 
 [![Van Hoang Kha GitHub stats](https://github-readme-stats.vercel.app/api?username=Van-Hoang-Kha)](https://github.com/Van-Hoang-Kha/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Van-Hoang-Kha&layout=compact)](https://github.com/Van-Hoang-Kha/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Van-Hoang-Kha&langs_count=8)](https://github.com/Van-Hoang-Kha/github-readme-stats)
 
