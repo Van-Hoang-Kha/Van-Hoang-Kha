@@ -64,9 +64,4 @@
   <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Van-Hoang-Kha&theme=nord&column=7" >
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Van-Hoang-Kha&theme=vue)
-
-![Van Hoang Kha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Van-Hoang-Kha&show_icons=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Van-Hoang-Kha&langs_count=8)](https://github.com/Van-Hoang-Kha/github-readme-stats)
 
