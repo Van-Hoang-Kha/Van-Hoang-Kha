@@ -64,5 +64,4 @@
   <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=Van-Hoang-Kha&theme=nord&column=7" >
 
-<img align="center" src="https://github.com/Van-Hoang-Kha/Van-Hoang-Kha/blob/output/github-contribution-grid-snake.gif">
 
